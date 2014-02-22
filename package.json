@@ -16,12 +16,9 @@
     "url": "https://github.com/vmakhaev/derby-site/issues"
   },
   "dependencies": {
-    "derby": "git://github.com/codeparty/derby#0.6",
-    "derby-templates": "git://github.com/vmakhaev/derby-templates#master",
-    "racer": "git://github.com/codeparty/racer#master",
-    "express": "~3.4.7",
-    "coffeeify": "~0.5.2",
-    "redis": "~0.10.0",
+    "derby": "~0.6",
+    "express": "~3.4.8",
+    "redis": "~0.10.1",
     "connect-redis": "~1.4.6",
     "racer-browserchannel": "~0.1.1",
     "livedb-mongo": "~0.3.0",
