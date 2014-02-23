@@ -22,7 +22,8 @@
     "connect-redis": "~1.4.6",
     "racer-browserchannel": "~0.1.1",
     "livedb-mongo": "~0.3.0",
-    "marked": "~0.3.0",
-    "highlight.js": "~7.5.0"
+    "d-bootstrap": "~0.1.0",
+    "marked": "~0.3.1",
+    "highlight.js": "~8.0.0"
   }
 }
