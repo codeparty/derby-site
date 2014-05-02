@@ -275,7 +275,7 @@ Let's go <b>{{activity}}</b>!
 Before parsing, all HTML comments, leading and trailing whitespace, and new
 lines are removed from templates. This reduces page size, and it keeps template
 code more readable when spaces are not desired between inline elements. If you
-do want whitespace at the beginning or end or a line, add the non-standard `&sp;`
+do want whitespace at the beginning or end of a line, add the non-standard `&sp;`
 character entity, which will simply be replaced with a space.
 
 The contents of `<script>` and `<style>` tags are passed through literally,
